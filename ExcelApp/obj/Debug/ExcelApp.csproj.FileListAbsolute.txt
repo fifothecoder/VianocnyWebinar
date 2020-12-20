@@ -1,0 +1,8 @@
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\bin\Debug\ExcelApp.exe.config
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\bin\Debug\ExcelApp.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\bin\Debug\ExcelApp.pdb
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\obj\Debug\ExcelApp.csprojAssemblyReference.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\obj\Debug\ExcelApp.csproj.ResolveComReference.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\obj\Debug\ExcelApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\obj\Debug\ExcelApp.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\ExcelApp\obj\Debug\ExcelApp.pdb

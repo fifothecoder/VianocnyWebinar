@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\bin\Debug\PointerFun.exe.config
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\bin\Debug\PointerFun.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\bin\Debug\PointerFun.pdb
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\obj\Debug\PointerFun.csprojAssemblyReference.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\obj\Debug\PointerFun.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\obj\Debug\PointerFun.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\PointerFun\obj\Debug\PointerFun.pdb

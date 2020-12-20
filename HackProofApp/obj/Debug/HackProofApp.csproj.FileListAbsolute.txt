@@ -1,0 +1,7 @@
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\bin\Debug\HackProofApp.exe.config
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\bin\Debug\HackProofApp.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\bin\Debug\HackProofApp.pdb
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\obj\Debug\HackProofApp.csprojAssemblyReference.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\obj\Debug\HackProofApp.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\obj\Debug\HackProofApp.exe
+C:\Users\filip\Documents\Programming\C# Projects\HackProofApp\HackProofApp\obj\Debug\HackProofApp.pdb
